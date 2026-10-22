@@ -1,1 +1,1 @@
-# [flags.komali.dev](https://flags.komali.dev)
+# [flags.medli.dev](https://flags.medli.dev)
